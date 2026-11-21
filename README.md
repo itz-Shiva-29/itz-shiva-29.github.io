@@ -6,7 +6,7 @@ A responsive personal portfolio site presenting my experience, education, skills
 
 ## Features
 
-- Responsive layout with CSS animations
+- Responsive layout with light and dark themes
 - Profile, experience, and education sections
 - Technical skills and project highlights
 - Resume and contact links
